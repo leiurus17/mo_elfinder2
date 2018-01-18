@@ -34,7 +34,7 @@ elFinder.prototype.commands.mkdir = function() {
 	};
 	
 	this.shortcuts = [{
-		pattern     : 'ctrl+shift+n'
+		pattern     : 'ctrl+shift+;'
 	}];
 
 	this.init = function() {

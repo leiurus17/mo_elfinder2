@@ -124,6 +124,7 @@ if (typeof elFinder === 'function' && elFinder.prototype.i18) {
 			'cmdhome'      : 'Root',
 			'cmdinfo'      : 'Get info',
 			'cmdmkdir'     : 'New folder',
+			'cmdmkdirreq'  : 'Create required folders',
 			'cmdmkdirin'   : 'Into New Folder', // from v2.1.7 added 19.2.2016
 			'cmdmkfile'    : 'New text file',
 			'cmdopen'      : 'Open',
