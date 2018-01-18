@@ -52,7 +52,7 @@ elFinder.prototype.commands.mkdir = function() {
 			self.title = fm.i18n('cmdmkdirin');
 			self.className += ' elfinder-button-icon-mkdirin';
 		} else {
-			self.title = fm.i18n('cmdmkdir');
+			self.title = fm.i18n('cmdmkdirreq');
 		}
 		self.update(void(0), self.title);
 	});
