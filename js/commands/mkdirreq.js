@@ -1,8 +1,9 @@
 /**
- * @class  elFinder command "mkdir"
- * Create new folder
+ * @class  elFinder command "mkdirreq"
+ * Create new required folders
  *
- * @author Dmitry (dio) Levashov
+ * @author Marlon (mml) Monzon
+ * 
  **/
 elFinder.prototype.commands.mkdir = function() {
 	"use strict";
